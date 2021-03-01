@@ -1,16 +1,19 @@
-### Hi there 👋
+# Jedson Henrique:pushpin:
 
-<!--
-**Henryke10x10/Henryke10x10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sou um estudante de programação e apixonado por design.
 
-Here are some ideas to get you started:
+Atualmente estou cursando Engenharia da Computação, e estudo constantemente tecnologias voltadas ao web design, mais especificamente front-end e UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho afinidade com áreas como:
+#### Html
+#### Css
+#### Javascript
+#### Bootstrap
+#### IU design
+
+E inciando com tecnologias como react js, banco de dados e UX.
+
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JedsonBarros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jedson-barros-051776207/)](https://www.linkedin.com/in/jedson-barros-051776207/)
+[![Gmail Badge](https://img.shields.io/badge/-henryke1010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henryke1010@gmail.com)](mailto:henryke1010@gmail.com)
+
+
