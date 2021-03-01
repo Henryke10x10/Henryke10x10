@@ -4,7 +4,7 @@
 
 Atualmente estou cursando Engenharia da Computação, e estudo constantemente tecnologias voltadas ao web design, mais especificamente front-end e UI/UX.
 
-Tenho afinidade com áreas como:
+Tenho conhecimento em áreas como:
 #### Html
 #### Css
 #### Javascript
