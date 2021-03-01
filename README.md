@@ -1,6 +1,6 @@
-# Jedson Henrique:pushpin:
+# Jedson Henrique:octocat:
 
-### Sou um estudante de programação e apixonado por design.
+### Sou um estudante de programação e apixonado por design.:computer:
 
 Atualmente estou cursando Engenharia da Computação, e estudo constantemente tecnologias voltadas ao web design, mais especificamente front-end e UI/UX.
 
