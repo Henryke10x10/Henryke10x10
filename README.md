@@ -1,6 +1,6 @@
 # Jedson Henrique:octocat:
 
-### Sou um estudante de programação e apixonado por design.:computer:
+### Sou um estudante de programação e apaixonado por design.:computer:
 
 Atualmente estou cursando Engenharia da Computação, e estudo constantemente tecnologias voltadas ao web design, mais especificamente front-end e UI/UX.
 
