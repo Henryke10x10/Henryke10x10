@@ -2,7 +2,7 @@
 
 ### Estudante de programação e apaixonado por design.:computer:
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henryke10x10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henryke10x10&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henryke10x10&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henryke10x10&layout=compact&langs_count=8&theme=dracula"/>
 
 
 Atualmente estou cursando Engenharia da Computação, e estudo constantemente tecnologias voltadas ao web design, mais especificamente front-end e UI/UX.
