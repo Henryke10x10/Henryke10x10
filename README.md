@@ -2,7 +2,7 @@
 
 ### Estudante de programação e apaixonado por design.:computer:
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=henryke10x10&hide=javascript,html)
+![Top Languages Card]https://github-readme-stats-eight-theta.vercel.app/api?username=henryke10x10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 Atualmente estou cursando Engenharia da Computação, e estudo constantemente tecnologias voltadas ao web design, mais especificamente front-end e UI/UX.
 
