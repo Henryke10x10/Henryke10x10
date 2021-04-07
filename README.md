@@ -15,6 +15,7 @@ Tenho conhecimento em áreas como:
 #### IU design
 
 E inciando com tecnologias como react js, banco de dados e UX.
+&nbsp;
 
 <div>
   Entre em contato comigo: :love_letter:
