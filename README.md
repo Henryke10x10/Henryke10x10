@@ -18,4 +18,3 @@ E inciando com tecnologias como react js, banco de dados e UX.
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JedsonBarros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jedson-barros-051776207/)](https://www.linkedin.com/in/jedson-barros-051776207/)
 [![Gmail Badge](https://img.shields.io/badge/-henryke1010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henryke1010@gmail.com)](mailto:henryke1010@gmail.com)
-
