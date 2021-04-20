@@ -7,14 +7,15 @@
 
 Atualmente estou cursando Engenharia da Computação, e estudo constantemente tecnologias voltadas ao web design, mais especificamente front-end e UI/UX.
 
-Tenho conhecimento em áreas como:
+Atualmente utilizo tecnologias como:
 #### Html
 #### Css
+#### Sass
 #### Javascript
 #### Bootstrap
 #### IU design
 
-E inciando com tecnologias como react js, banco de dados e UX.
+E inciando com tecnologias como react js, php, banco de dados e UX.
 
 <div>
   Entre em contato comigo: :love_letter:
