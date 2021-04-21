@@ -15,7 +15,7 @@ Atualmente utilizo tecnologias como:
 #### Bootstrap
 #### IU design
 
-E inciando com tecnologias como react js, php, banco de dados e UX.
+E inciando com tecnologias como react js, next js, php, banco de dados e UX.
 
 <div>
   Entre em contato comigo: :love_letter:
